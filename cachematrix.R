@@ -5,8 +5,8 @@
 ## and returns a special "matrix" object that is a list of four funcitons
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
-## 1. set the value of the inverse of the matrix
-## 1. get the value of the inverse of the matrix
+## 3. set the value of the inverse of the matrix
+## 4. get the value of the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
